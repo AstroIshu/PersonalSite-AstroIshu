@@ -19,3 +19,9 @@ Contains info about me and my interests
 Contains all Project's Recipes and Learning's Ingredient
 ### Attic:
 Contains Blogs, Poetry and Gallery
+
+### New Changes:
+- SEO
+- Mobile Compatible
+- Settings page- music, cursor, darkmode
+
